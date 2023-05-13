@@ -1,0 +1,5 @@
+Project Name: 
+             Catch the ball
+
+Project Description: 
+                    A ball will fall from a random position whose falling speed is set by the user. User will control a paddle to catch the ball. The ball will fall successfully for five times.If the user catches the ball five times,he has won and if he ever misses the ball the game will end there.
